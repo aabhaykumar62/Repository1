@@ -6,7 +6,6 @@ public class demo {
 		System.out.println("hi");
 	
 	//commit
-	//rollback
 	System.out.println("hello i am abhay");
 	System.out.println("hello mr rahul i have face some problem in this project");
 	}
